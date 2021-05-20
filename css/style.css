@@ -1,0 +1,242 @@
+
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.container {
+    background-color: #FFF;
+}
+
+.container h1 {
+    padding-top: 150px;
+    font-size: 50px;
+    line-height: 70px;
+}
+
+.img {
+    max-width: 100%;
+    padding: 5px;
+}
+
+.col7 {
+    color: rgb(196, 40, 40);
+    border: 1px solid #FFECEC;
+    padding: 10px;
+    border-radius: 70px;
+    background-color: rgb(248, 215, 215);
+}
+
+.card:hover {
+    border-color: brown;
+}
+
+.text1 h1 {
+    padding-top: 50px;
+    font-size: 50px;
+    line-height: 70px;
+}
+
+.box {
+    padding: 25px;
+    text-align: center;
+} 
+
+.col1 {
+    border: 2px solid rgb(37, 160, 53);
+    border-radius: 50px;
+    padding: 3px;
+    background-color:rgb(37, 160, 53) ;
+    color: #fff;
+}
+
+.col2 {
+    color: rgb(12, 247, 3);
+}
+
+.btn1 {
+    padding: 5px 40px;
+    border-radius: 20px;
+}
+
+.card-body {
+    margin: auto;
+    text-align: center;
+}
+
+.card img {
+    padding: 15px;
+    margin: auto;
+}
+
+.cod {
+    padding-top: 100px;
+    text-align: center;
+}   
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.cod img {
+    padding: 40px;
+    max-width: 100%;
+}
+
+.row {
+    padding: auto;
+}
+
+.mycard {
+    border: 1px solid #F53838;
+    border-radius: 10px;
+    width: 420px;
+    height: 280px;
+    margin: 10px;
+}
+
+#about {
+    margin-top: 4%;
+    display: block;
+}
+
+img {
+    max-width: 100%;
+}
+
+.img {
+    max-width: 50%;
+}
+
+.div {
+    display: flex;
+}
+
+.car i {
+    color: rgb(240, 240, 48);
+}
+
+.width {
+    padding: 80px;
+}
+
+.hedir1 {
+    border-radius: 700px;
+}
+
+.media {
+    margin: 30px 0;
+}
+
+.blu {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.per {
+    margin-top: 30px;
+}
+
+.bg1 i {
+    border: 5px solid #fff;
+    padding: 5px;
+    border-radius: 60px;
+    background-color: #FFF;
+    color: rgb(202, 48, 48);
+}
+
+.bg1 {
+    padding: 5px;
+    margin: 5px;
+} 
+
+.bg {
+    max-width: 340px;
+}
+
+.container {
+    margin: auto;
+}
+
+.apple {
+    margin: 20px;
+
+} 
+
+.bmw {
+    padding: 4%;
+}
+
+.slick-next:before {
+    content: '→';
+    color: rgb(189, 32, 40);
+    margin-left: autos;
+}
+
+.slick-prev::before {
+    content: "←";
+    color: rgb(189, 32, 40);
+}
+
+.block a {
+    display: block;
+    text-decoration: none;
+    color: #F53838;
+}
+
+.margin {
+    margin-top: 90px;
+}
+
+
+@media(max-width: 768px){
+    .box1 {
+        text-align: center;
+    }
+
+    .margin {
+        gap: 50px;
+    }
+
+    #about {
+        padding: 20px;
+        margin: 8%;
+        display: block;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .apple1 {
+        margin-left: 150px;
+    }
+
+    .container h1 {
+        padding-top: 50px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .box4 {
+        text-align: center;
+    }
+} 
+
+@media(max-width: 500px){
+    .apple1 {
+        margin-left: 60px;
+    }
+
+    .wrap {
+        margin-left: 20px;
+    }
+}
